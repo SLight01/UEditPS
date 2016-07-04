@@ -1,5 +1,7 @@
 # UEditPS
-PowerShell settings for UltraEdit (v23+).
+PowerShell settings for UltraEdit (v23+). 
+
+I've been using [UltraEdit] (http://www.ultraedit.com) since v6. Now that I am starting to learn/write PowerShell and learn GitHub I started adapting UltraEdit to facilitate this.
 
 ## markdown.uew
 This is a basic wordfile for the Markdown syntax. 
