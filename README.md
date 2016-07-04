@@ -140,6 +140,8 @@ I did the following steps to add the PowerShell autocomplete file.
 3. Add a list for PowerShell file extensions.
   - Select the change list button.
   - Enter the space delimited list of extensions and press Add.
+  - PowerShell extenion list I used for UltraEdit: PS1 PSD1 PSM1 PS1XML CLIXML PSC1 PSSC.
+    [Source] (https://en.wikipedia.org/wiki/Windows_PowerShell#File_extensions)
   - ![Screenshot 2] (https://github.com/SLight01/UEditPS/blob/master/Images/UE_PS02.png)
 4. In the select extension dropdown choose the new PowerShell extensions item.
   - ![Screenshot 3] (https://github.com/SLight01/UEditPS/blob/master/Images/UE_PS02.png)
