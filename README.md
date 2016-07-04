@@ -134,7 +134,7 @@ I did the following steps to add the PowerShell autocomplete file.
 
 1. Open the UltraEdit settings dialog.
 2. Go to Word Wrap/Tab Settings under the Editor section.
-  - ![Screenshot 1] (UEditPS/Images/UE_PS01.png)
+  - ![Screenshot 1] (https://github.com/SLight01/UEditPS/Images/UE_PS01.png)
 3. Add a list for PowerShell file extensions.
   - Select the change list button.
   - Enter the space delimited list of extensions and press Add.
