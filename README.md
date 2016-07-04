@@ -144,7 +144,7 @@ I did the following steps to add the PowerShell autocomplete file.
     [Source] (https://en.wikipedia.org/wiki/Windows_PowerShell#File_extensions)
   - ![Screenshot 2] (https://github.com/SLight01/UEditPS/blob/master/Images/UE_PS02.png)
 4. In the select extension dropdown choose the new PowerShell extensions item.
-  - ![Screenshot 3] (https://github.com/SLight01/UEditPS/blob/master/Images/UE_PS03.png)
+  - ![Screenshot 3] (https://github.com/SLight01/UEditPS/blob/master/Images/US_PS03.png)
 5. Browse to the autocomplete file.
 
 # DISCLAIMER
